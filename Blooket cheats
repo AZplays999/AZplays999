@@ -230,7 +230,7 @@
                         userSelect: "text",
                     },
                     innerHTML: "GitHub - AZplays",
-                    onclick: () => window.open("https://github.com/Blooket-Council/Blooket-Cheats", "_blank").focus(),
+                    onclick: () => window.open("https://www.google.com/search?q=AZplays&rlz=1CAJCUZ_enCA1094&oq=AZplays&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIGCAIQABgeMgYIAxAAGB4yBggEEEUYPDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYQdIBCDMzNzFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8", "_blank").focus(),
                 }),
                 (controlButtons = createElement(
                     "div",
